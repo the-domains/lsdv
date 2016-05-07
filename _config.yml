@@ -1,0 +1,14 @@
+layout_spectrum: 0.3246495
+typography_spectrum: 0.2445755
+color:
+  saturation: 0.2895964
+  lightness: 0.6270263
+  brandStrength: 0.3609039
+  rhythmicContrast: 0.5296198
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: LsdV
